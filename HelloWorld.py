@@ -1,2 +1,2 @@
-#Display Hello World 
+# Display Hello World and close
 print("Hello World !")
